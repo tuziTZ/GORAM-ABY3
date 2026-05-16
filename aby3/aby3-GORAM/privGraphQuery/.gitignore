@@ -1,5 +1,0 @@
-# test files
-*.ipynb
-
-#caching files
-__pycache__/
